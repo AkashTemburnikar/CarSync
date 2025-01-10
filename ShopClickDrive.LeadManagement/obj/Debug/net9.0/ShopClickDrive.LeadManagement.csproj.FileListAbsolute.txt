@@ -12,3 +12,4 @@
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.LeadManagement/obj/Debug/net9.0/ref/ShopClickDrive.LeadManagement.dll
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.LeadManagement/bin/Debug/net9.0/ShopClickDrive.LeadManagement.runtimeconfig.json
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.LeadManagement/obj/Debug/net9.0/ShopClickDrive.LeadManagement.genruntimeconfig.cache
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.LeadManagement/obj/Debug/net9.0/ShopClickDrive.LeadManagement.sourcelink.json

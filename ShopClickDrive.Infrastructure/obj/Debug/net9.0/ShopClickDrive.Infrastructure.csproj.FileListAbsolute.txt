@@ -17,3 +17,4 @@
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Infrastructure/obj/Debug/net9.0/ShopClickDrive.Infrastructure.pdb
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Infrastructure/obj/Debug/net9.0/ShopClickDrive.Infrastructure.genruntimeconfig.cache
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Infrastructure/obj/Debug/net9.0/ref/ShopClickDrive.Infrastructure.dll
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Infrastructure/obj/Debug/net9.0/ShopClickDrive.Infrastructure.sourcelink.json

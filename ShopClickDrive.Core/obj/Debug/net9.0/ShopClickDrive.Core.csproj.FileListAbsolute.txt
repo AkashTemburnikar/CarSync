@@ -9,3 +9,4 @@
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/refint/ShopClickDrive.Core.dll
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ShopClickDrive.Core.pdb
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ref/ShopClickDrive.Core.dll
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ShopClickDrive.Core.sourcelink.json

@@ -13,3 +13,4 @@
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Application/obj/Debug/net9.0/refint/ShopClickDrive.Application.dll
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Application/obj/Debug/net9.0/ShopClickDrive.Application.pdb
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Application/obj/Debug/net9.0/ref/ShopClickDrive.Application.dll
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Application/obj/Debug/net9.0/ShopClickDrive.Application.sourcelink.json

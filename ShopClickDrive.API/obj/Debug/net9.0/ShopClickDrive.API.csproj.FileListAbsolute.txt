@@ -169,3 +169,4 @@
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.API/obj/Debug/net9.0/ShopClickDrive.API.pdb
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.API/obj/Debug/net9.0/ShopClickDrive.API.genruntimeconfig.cache
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.API/obj/Debug/net9.0/ref/ShopClickDrive.API.dll
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.API/obj/Debug/net9.0/ShopClickDrive.API.sourcelink.json

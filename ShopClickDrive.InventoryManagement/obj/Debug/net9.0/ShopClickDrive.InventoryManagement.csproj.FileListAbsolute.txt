@@ -17,3 +17,4 @@
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.InventoryManagement/obj/Debug/net9.0/refint/ShopClickDrive.InventoryManagement.dll
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.InventoryManagement/obj/Debug/net9.0/ShopClickDrive.InventoryManagement.pdb
 /Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.InventoryManagement/obj/Debug/net9.0/ref/ShopClickDrive.InventoryManagement.dll
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.InventoryManagement/obj/Debug/net9.0/ShopClickDrive.InventoryManagement.sourcelink.json
