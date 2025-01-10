@@ -1,0 +1,35 @@
+﻿# Ignore IDE-specific and build files
+**/.vs
+**/.vscode
+**/.idea
+**/bin
+**/obj
+**/node_modules
+**/*.dbmdl
+**/*.jfm
+
+# Ignore Docker-related temporary and deployment files
+**/azds.yaml
+**/secrets.dev.yaml
+**/values.dev.yaml
+**/charts
+
+# Ignore Git-related files
+**/.git
+**/.gitignore
+
+# Ignore user-specific project files
+**/*.*proj.user
+**/.project
+**/.settings
+
+# Ignore log files
+**/npm-debug.log
+
+# Allow Docker and Compose files (remove these exclusions)
+!**/docker-compose*
+!**/Dockerfile*
+
+# Documentation files (optional)
+LICENSE
+README.md

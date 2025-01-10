@@ -1,0 +1,11 @@
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/bin/Debug/net9.0/ShopClickDrive.Core.deps.json
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/bin/Debug/net9.0/ShopClickDrive.Core.dll
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/bin/Debug/net9.0/ShopClickDrive.Core.pdb
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ShopClickDrive.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ShopClickDrive.Core.AssemblyInfoInputs.cache
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ShopClickDrive.Core.AssemblyInfo.cs
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ShopClickDrive.Core.csproj.CoreCompileInputs.cache
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ShopClickDrive.Core.dll
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/refint/ShopClickDrive.Core.dll
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ShopClickDrive.Core.pdb
+/Users/akashtemburnikar/RiderProjects/ShopClickDrive/ShopClickDrive.Core/obj/Debug/net9.0/ref/ShopClickDrive.Core.dll

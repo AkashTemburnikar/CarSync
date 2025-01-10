@@ -1,0 +1,6 @@
+@ShopClickDrive.API_HostAddress = http://localhost:5191
+
+GET {{ShopClickDrive.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

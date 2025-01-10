@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1LUAydt9ODfMEB+CCXTqYnSb/Fxr7SHeLkcQHYB6Acg=",
+  "Source": "ShopClickDrive.API",
+  "BasePath": "_content/ShopClickDrive.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

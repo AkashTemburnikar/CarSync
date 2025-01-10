@@ -1,0 +1,27 @@
+﻿version: '3.9'
+services:
+  shopclickdrive-api:
+    build:
+      context: .
+      dockerfile: ShopClickDrive.API/Dockerfile
+    ports:
+      - "8080:8080" # Map container port to host
+    depends_on:
+      - sqlserver
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__ShopClickDriveDb=Server=host.docker.internal;Database=ShopClickDrive;User Id=sa;Password=Akash@1910;TrustServerCertificate=True;
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Akash@1910"
+    volumes:
+      - sql_data:/var/opt/mssql
+
+volumes:
+  sql_data:
