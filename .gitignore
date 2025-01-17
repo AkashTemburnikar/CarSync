@@ -23,3 +23,9 @@ obj/
 
 # Temporary files
 *.tmp
+
+# User-specific files
+*.lock.json
+
+# Visual Studio files
+.vs/
