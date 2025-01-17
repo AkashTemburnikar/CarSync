@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/ShopClickDrive.API.props" />
-</Project>
