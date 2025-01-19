@@ -11,6 +11,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0F0F0D44-F393-4D79-8E21-1D7177645ED4}"
 	ProjectSection(SolutionItems) = preProject
 		compose.yaml = compose.yaml
+		Config.json = Config.json
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopClickDrive.InventoryManagement", "ShopClickDrive.InventoryManagement\ShopClickDrive.InventoryManagement.csproj", "{4041332C-5F0D-456F-AC2B-2E19F6863EC4}"

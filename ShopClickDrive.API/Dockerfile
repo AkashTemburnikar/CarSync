@@ -16,7 +16,7 @@ COPY ["ShopClickDrive.Application/ShopClickDrive.Application.csproj", "ShopClick
 COPY ["ShopClickDrive.Core/ShopClickDrive.Core.csproj", "ShopClickDrive.Core/"]
 COPY ["ShopClickDrive.Infrastructure/ShopClickDrive.Infrastructure.csproj", "ShopClickDrive.Infrastructure/"]
 COPY ["ShopClickDrive.InventoryManagement/ShopClickDrive.InventoryManagement.csproj", "ShopClickDrive.InventoryManagement/"]
-COPY ["ShopClickDrive.LeadManagement/ShopClickDrive.LeadManagement.csproj", "ShopClickDrive.LeadManagement/"] # New Project
+COPY ["ShopClickDrive.LeadManagement/ShopClickDrive.LeadManagement.csproj", "ShopClickDrive.LeadManagement/"]
 
 # Restore dependencies
 RUN dotnet restore "ShopClickDrive.API/ShopClickDrive.API.csproj"
